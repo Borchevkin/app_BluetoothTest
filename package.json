@@ -1,0 +1,10 @@
+{
+    "name": "app_BluetoothTest",
+    "description": "Software for testing data transmitting over USB -> UART -> Bluetooth Module -> Air -> Bluetooth module -> UART -> USB", 
+    
+    "dependencies": 
+    { 
+        "serialport": "*" 
+    } 
+    
+}
